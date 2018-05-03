@@ -8,9 +8,9 @@ An example of Networking, JSON Parsing, Request/Response Logging and gradient ba
 Screenshots:
 
 
-![Optional Text](../master/Screenshots/1.png)
+<img src="../master/Screenshots/1.png" width="250.31" height="462.98" /> .  <img src="/../master/Screenshots/2.png" width="250.31" height="462.98" />
 
-![Optional Text](../master/Screenshots/2.png)
+
 
 
 Currently This Version includes:

@@ -1,0 +1,6 @@
+
+|"squid:ClassVariableVisibilityCheck"QMake Title a static final constant or non-public and provide accessors if needed.(¤”£-
+isquid:S00116"NRename this field "Url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æï…˜þÿÿÿÿ
+esquid:S00116"PRename this field "Title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤”£-
+€"squid:ClassVariableVisibilityCheck"OMake Url a static final constant or non-public and provide accessors if needed.(Æï…˜þÿÿÿÿ
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(©å”r

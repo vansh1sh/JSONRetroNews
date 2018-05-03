@@ -1,0 +1,9 @@
+
+\squid:S1858"@"getUrl" returns a string, there's no need to call "toString()".(Ú‚Õù8¾óëÆ­,
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±8¾óëÆ­,
+csquid:S1858"B"getTitle" returns a string, there's no need to call "toString()".(ÒöÛ”üÿÿÿÿ8¾óëÆ­,
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öƒœ¬
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“ª‚Œıÿÿÿÿ
+Ksquid:S1905"/Remove this unnecessary cast to "RecyclerView".(”°«ˆ8¾óëÆ­,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Õüø°ÿÿÿÿÿ
+qsquid:S1450"\Remove the "layoutManager" field and declare it as a local variable in the relevant methods.(üÉÙ¼
